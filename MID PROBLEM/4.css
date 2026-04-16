@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  padding: 5px;
+  margin-top: 10px;
+}
